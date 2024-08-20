@@ -1,0 +1,782 @@
+Location,Price,Bedrooms,Bathrooms,Size
+Arroyo Grande,795000,3,3,2371
+Paso Robles,399000,4,3,2818
+Paso Robles,545000,4,3,3032
+Morro Bay,909000,4,4,3540
+Santa Maria-Orcutt,109900,3,1,1249
+Oceano,324900,3,3,1800
+Santa Maria-Orcutt,192900,4,2,1603
+Santa Maria-Orcutt,215000,3,2,1450
+Morro Bay,999000,4,3,3360
+Atascadero,319000,3,2,1323
+Santa Maria-Orcutt,350000,3,2,1750
+Santa Maria-Orcutt,249000,3,2,1400
+Arroyo Grande,299000,2,2,1257
+Santa Maria-Orcutt,235900,3,2,1400
+Santa Maria-Orcutt,348000,3,2,1600
+Paso Robles,314000,4,3,1794
+Los Alamos,399000,4,2,1850
+San Miguel,599000,3,3,2950
+Paso Robles,299000,3,2,1719
+San Luis Obispo,425000,3,3,1472
+Morro Bay,1100000,4,3,4168
+Cayucos,1500000,3,3,3880
+Santa Maria-Orcutt,110000,2,1,1000
+Santa Maria-Orcutt,200000,3,2,1139
+Santa Maria-Orcutt,134900,3,1,1080
+Santa Maria-Orcutt,250000,4,3,2000
+Pismo Beach,950000,3,4,1920
+Santa Maria-Orcutt,239950,4,2,1348
+Santa Maria-Orcutt,170000,3,2,1280
+Santa Maria-Orcutt,285000,3,2,2400
+Santa Maria-Orcutt,279000,3,3,1700
+Santa Maria-Orcutt,219000,3,2,1600
+Santa Maria-Orcutt,155000,3,2,1050
+Atascadero,389000,3,2,1415
+Nipomo,340000,3,1,1110
+Guadalupe,95000,2,1,797
+Santa Maria-Orcutt,140000,2,2,1100
+Pismo Beach,1100000,3,3,2602
+Santa Maria-Orcutt,360000,4,3,2351
+Morro Bay,415000,3,3,1350
+Santa Maria-Orcutt,250000,4,2,1206
+Santa Maria-Orcutt,559000,3,3,2628
+Nipomo,525000,3,3,2365
+Los Osos,779000,3,3,2990
+Arroyo Grande,595000,3,2,1750
+Templeton,1150000,4,5,5500
+Templeton,550000,3,2,1852
+Grover Beach,500000,3,2,2100
+Santa Maria-Orcutt,279000,4,3,2580
+Santa Maria-Orcutt,375000,4,2,1963
+Santa Maria-Orcutt,330000,3,3,1900
+Santa Maria-Orcutt,199000,3,3,1450
+Santa Maria-Orcutt,165000,2,2,1000
+Templeton,1399000,4,3,6500
+Santa Maria-Orcutt,255000,3,2,1218
+Cambria,325000,2,2,893
+Morro Bay,789000,3,3,2100
+Nipomo,498000,4,3,2341
+Nipomo,430000,4,2,2168
+Paso Robles,539900,4,3,3032
+Pismo Beach,499000,3,2,1293
+Los Osos,275000,3,2,1200
+Santa Maria-Orcutt,499000,3,4,2250
+Morro Bay,899000,3,3,2430
+Morro Bay,1045000,3,3,2100
+Morro Bay,774000,2,2,1550
+Santa Maria-Orcutt,239000,3,3,1800
+Santa Maria-Orcutt,195000,3,2,1218
+Grover Beach,325000,2,1,768
+Nipomo,320000,4,2,1929
+Santa Maria-Orcutt,275000,4,3,1877
+Paso Robles,329000,3,2,1700
+Santa Maria-Orcutt,140000,3,2,1080
+Paso Robles,409000,4,3,2192
+Santa Maria-Orcutt,167900,3,2,1296
+Nipomo,325000,7,5,2688
+Santa Maria-Orcutt,119000,1,1,900
+Santa Maria-Orcutt,245000,4,2,1482
+Santa Maria-Orcutt,259900,3,2,1726
+Arroyo Grande,495000,3,2,1486
+San Luis Obispo,399000,4,2,1543
+Santa Maria-Orcutt,329700,4,2,1367
+Atascadero,199000,1,1,712
+Santa Maria-Orcutt,149000,3,2,1040
+Paso Robles,225000,3,2,1456
+Santa Maria-Orcutt,195000,2,1,811
+Paso Robles,359900,3,3,1951
+Templeton,799000,4,4,3100
+San Luis Obispo,595000,3,2,2117
+Paso Robles,89000,3,2,1560
+Santa Maria-Orcutt,129900,3,1,1042
+Los Osos,375000,3,3,1519
+Atascadero,599000,3,2,2774
+Paso Robles,235000,3,2,1340
+Santa Maria-Orcutt,255900,3,2,1440
+Santa Maria-Orcutt,148900,5,2,1064
+Arroyo Grande,749000,3,2,2145
+Santa Maria-Orcutt,189900,3,2,1472
+Paso Robles,183000,3,1,888
+Santa Maria-Orcutt,232600,3,3,1582
+Cambria,520000,3,2,1680
+Solvang,355000,3,3,1702
+Pismo Beach,275000,0,1,398
+Santa Maria-Orcutt,225000,4,3,1940
+Santa Maria-Orcutt,161900,3,2,1200
+Santa Maria-Orcutt,249999,3,3,2013
+Santa Maria-Orcutt,208000,2,1,1267
+Guadalupe,135000,3,1,1100
+San Luis Obispo,385000,2,3,1389
+Atascadero,750000,4,4,3387
+Atascadero,810000,4,3,3305
+Atascadero,890000,4,5,4229
+Atascadero,895000,4,3,3676
+San Miguel,229900,3,2,1458
+Grover Beach,240000,2,2,1020
+Atascadero,429000,4,3,2513
+Santa Maria-Orcutt,399000,4,3,2800
+Santa Maria-Orcutt,385000,3,2,2000
+Paso Robles,294900,3,2,1316
+Paso Robles,399000,3,2,1220
+Santa Maria-Orcutt,269000,3,3,1780
+Cambria,449000,3,3,2120
+Arroyo Grande,555900,5,3,2947
+Paso Robles,319900,4,2,2135
+Cambria,332000,4,4,1872
+Bradley,499000,4,5,3400
+Paso Robles,432000,4,3,3113
+Arroyo Grande,199000,2,1,827
+Santa Maria-Orcutt,29000,2,2,1500
+Atascadero,299000,3,2,1270
+Santa Maria-Orcutt,259000,4,3,1857
+Los Osos,99000,1,1,538
+Avila Beach,779000,2,2,1223
+Avila Beach,839000,2,2,1223
+Santa Ynez,525000,3,2,1746
+Santa Ynez,795000,3,2,2092
+Santa Maria-Orcutt,337000,4,2,2000
+Oceano,164900,2,1,750
+San Luis Obispo,449000,2,3,1650
+Guadalupe,94000,2,2,797
+Pismo Beach,899000,3,3,2266
+Santa Maria-Orcutt,180000,3,2,1280
+Bradley,194900,3,2,1092
+Los Osos,350000,3,2,1509
+King City,167770,3,3,1793
+Creston,309900,3,2,1705
+Templeton,479000,2,3,2100
+Los Alamos,350000,3,2,1582
+Grover Beach,350000,3,2,1470
+Santa Maria-Orcutt,275000,3,2,1424
+Paso Robles,379000,4,3,2277
+King City,155900,4,2,3368
+San Miguel,229000,3,2,1458
+Pismo Beach,604995,2,3,1749
+Pismo Beach,599000,3,3,1996
+Morro Bay,359000,3,2,1008
+Lompoc,199000,4,2,1527
+Paso Robles,164900,3,2,1440
+Coalinga,179000,3,2,1815
+Paso Robles,370000,4,2,2064
+Santa Ynez,999000,5,4,2402
+Paso Robles,365000,3,3,2136
+San Miguel,345000,3,2,1498
+Paso Robles,299000,2,1,1068
+Pismo Beach,519500,2,1,634
+Buellton,645000,4,4,3000
+Santa Maria-Orcutt,242500,3,2,1218
+Santa Maria-Orcutt,259900,3,3,1300
+Santa Maria-Orcutt,310000,4,3,2014
+Atascadero,450000,2,2,1463
+Santa Maria-Orcutt,220000,2,2,1541
+San Luis Obispo,585000,3,2,1268
+Santa Maria-Orcutt,324000,5,4,2400
+Cambria,375000,1,1,551
+Paso Robles,329000,3,2,1420
+Paso Robles,599900,5,3,2764
+Santa Maria-Orcutt,74900,2,2,1014
+Los Osos,285000,3,2,1120
+Santa Maria-Orcutt,751900,3,3,3400
+Santa Maria-Orcutt,295000,3,2,1386
+Coalinga,170000,3,2,1320
+Santa Maria-Orcutt,197000,3,2,1376
+Oceano,1250000,3,3,2586
+Paso Robles,249000,3,2,1662
+Nipomo,179000,2,2,1033
+Santa Maria-Orcutt,132000,3,1,1050
+Lockwood,425000,3,2,1500
+Santa Maria-Orcutt,290000,5,3,2500
+Los Osos,150000,2,2,896
+Los Osos,150000,2,2,896
+Los Osos,150000,2,2,896
+Los Osos,150000,2,2,896
+Los Osos,150000,2,2,896
+Los Osos,205000,2,2,1388
+Atascadero,599000,4,3,3120
+Paso Robles,269000,3,3,1352
+Santa Maria-Orcutt,249000,4,3,1963
+Santa Maria-Orcutt,235000,3,3,1541
+Grover Beach,469000,4,3,2449
+Nipomo,159000,4,2,1660
+King City,69900,3,1,936
+Arroyo Grande,1499000,5,7,6800
+Atascadero,239000,3,2,1022
+Atascadero,399500,3,2,1665
+Paso Robles,299900,3,2,1209
+Lompoc,275000,3,2,1700
+Morro Bay,395000,4,2,1736
+Santa Maria-Orcutt,105000,1,1,731
+Santa Maria-Orcutt,179999,3,2,1086
+Santa Maria-Orcutt,219000,3,2,1131
+Solvang,325000,3,3,1500
+Atascadero,829900,4,3,3827
+Santa Maria-Orcutt,165000,2,1,1100
+Santa Maria-Orcutt,179000,3,2,1398
+Paso Robles,279000,3,2,1381
+Atascadero,820000,4,4,3387
+Paso Robles,399000,2,1,1250
+San Miguel,164900,3,1,965
+Santa Maria-Orcutt,235000,4,2,1860
+Arroyo Grande,1900000,4,5,5411
+Nipomo,289000,3,2,1367
+Paso Robles,355000,3,2,1640
+Santa Maria-Orcutt,199000,3,2,1269
+Santa Maria-Orcutt,209000,3,2,1275
+Lompoc,186900,3,1,912
+Santa Maria-Orcutt,240000,4,2,1460
+Nipomo,515000,2,2,2000
+Santa Maria-Orcutt,215000,4,2,1750
+Santa Maria-Orcutt,399900,4,4,3050
+Paso Robles,369000,4,3,2371
+Paso Robles,250000,2,2,1292
+Paso Robles,259000,3,2,1640
+Santa Maria-Orcutt,180000,2,2,1082
+Solvang,399900,3,2,1522
+Arroyo Grande,385000,3,2,1535
+Santa Maria-Orcutt,154000,2,2,1100
+San Luis Obispo,254900,2,2,966
+Paso Robles,315000,4,2,1653
+Santa Maria-Orcutt,437500,3,3,2523
+Santa Maria-Orcutt,299900,3,3,2511
+Arroyo Grande,399000,3,3,1772
+Paso Robles,330000,3,3,1889
+Arroyo Grande,279000,2,2,880
+Santa Maria-Orcutt,248000,3,2,1400
+Santa Maria-Orcutt,209000,3,3,1494
+Los Osos,729000,3,2,1844
+Atascadero,454500,4,3,1900
+Paso Robles,249000,3,2,1176
+Nipomo,1700000,3,5,4463
+Grover Beach,349000,3,2,1635
+Grover Beach,575000,3,3,2095
+Santa Maria-Orcutt,185000,3,2,1300
+Santa Maria-Orcutt,165000,3,2,1200
+Morro Bay,311900,0,1,910
+Santa Maria-Orcutt,175000,3,2,1600
+Lompoc,180000,4,2,1332
+Santa Maria-Orcutt,78000,2,2,1680
+Oceano,142900,2,1,1313
+Atascadero,850000,4,4,3744
+Paso Robles,389000,3,2,1998
+Santa Maria-Orcutt,641900,3,3,2714
+Templeton,305000,4,2,1797
+Paso Robles,260000,3,3,1687
+Paso Robles,320000,3,2,1663
+Atascadero,199000,2,1,792
+Santa Maria-Orcutt,299000,2,2,1410
+Buellton,289000,2,2,1085
+Santa Maria-Orcutt,229900,3,3,1900
+Atascadero,865000,4,3,3305
+Atascadero,900000,4,4,3962
+Atascadero,199000,2,3,1260
+Santa Maria-Orcutt,160000,2,3,1200
+Santa Maria-Orcutt,299000,3,3,2400
+Oceano,300000,3,3,1265
+Santa Maria-Orcutt,270000,4,2,1460
+Nipomo,490000,3,3,1894
+Santa Maria-Orcutt,295000,3,3,1800
+Paso Robles,225000,3,2,1550
+Atascadero,324900,2,2,1426
+Santa Maria-Orcutt,165000,3,2,1110
+Santa Maria-Orcutt,157900,3,2,1075
+Nipomo,299000,3,2,1756
+Paso Robles,369000,3,3,2150
+Santa Maria-Orcutt,233000,4,2,1650
+Santa Maria-Orcutt,109900,2,2,1200
+Paso Robles,309000,3,2,1488
+Pismo Beach,1799000,4,4,3609
+Santa Maria-Orcutt,209900,2,2,1113
+Solvang,499000,3,2,1600
+Arroyo Grande,525000,4,2,1961
+Los Osos,650000,3,3,3249
+Morro Bay,529000,3,3,1510
+Santa Maria-Orcutt,179000,3,2,1300
+Lompoc,282000,3,3,1736
+Templeton,899000,4,3,3008
+Santa Maria-Orcutt,130000,3,2,1850
+Santa Maria-Orcutt,205000,3,2,1146
+Santa Maria-Orcutt,180900,2,2,1100
+Atascadero,409900,4,4,2135
+Atascadero,409900,4,4,2135
+Grover Beach,469000,3,2,1827
+Arroyo Grande,289000,3,1,1005
+Santa Maria-Orcutt,99999,2,3,1800
+Santa Maria-Orcutt,445000,5,3,3307
+Atascadero,640000,3,3,2160
+San Miguel,185000,3,2,1062
+Santa Maria-Orcutt,210000,4,2,1102
+Santa Maria-Orcutt,199900,3,2,1215
+Santa Maria-Orcutt,225000,3,2,1600
+Paso Robles,369900,4,2,2161
+Santa Maria-Orcutt,120000,3,2,1686
+Paso Robles,199000,2,1,1000
+Arroyo Grande,520000,3,3,2600
+Paso Robles,579000,5,3,3150
+Santa Maria-Orcutt,300000,4,2,1257
+Arroyo Grande,325000,3,2,1171
+Santa Maria-Orcutt,225000,3,2,1144
+Atascadero,395000,2,1,1160
+Santa Maria-Orcutt,399000,4,3,2300
+Lompoc,165000,3,2,1144
+Arroyo Grande,374900,3,2,1368
+Santa Maria-Orcutt,199900,3,2,1238
+Arroyo Grande,365000,3,1,1056
+Santa Maria-Orcutt,222900,2,2,1086
+Los Osos,249900,2,1,720
+Paso Robles,290000,3,2,1426
+Santa Maria-Orcutt,170500,4,2,1361
+Atascadero,560000,3,3,2344
+Nipomo,339900,4,2,1925
+Nipomo,550000,4,3,2600
+San Miguel,269900,4,2,1601
+Paso Robles,350000,3,2,1395
+Los Osos,214000,2,2,1042
+Santa Maria-Orcutt,299900,3,2,1200
+Nipomo,139500,2,2,1248
+Lompoc,360000,4,3,3000
+Paso Robles,315000,3,2,1300
+Paso Robles,279900,3,2,1244
+Paso Robles,399000,4,2,2139
+Atascadero,475000,4,3,2450
+Santa Maria-Orcutt,65900,2,2,840
+Coalinga,212000,4,3,1878
+San Miguel,180000,3,2,1350
+Santa Maria-Orcutt,210000,4,2,1377
+Buellton,375000,3,3,1475
+Atascadero,106900,2,2,894
+Paso Robles,221830,3,2,1550
+Nipomo,239000,3,2,1106
+Atascadero,187500,1,1,594
+Los Alamos,445000,5,3,3200
+Santa Maria-Orcutt,309000,3,2,1906
+Santa Maria-Orcutt,315000,3,2,2004
+Santa Maria-Orcutt,191100,3,1,1200
+Cambria,699900,5,3,1818
+Nipomo,189500,2,2,1040
+Santa Maria-Orcutt,199000,4,2,1400
+Santa Maria-Orcutt,359000,4,3,2209
+Atascadero,264450,3,1,1030
+Templeton,459000,3,2,1999
+Santa Maria-Orcutt,150000,3,2,1316
+Pismo Beach,875000,3,3,2200
+Pismo Beach,599000,2,2,1200
+Atascadero,250000,3,3,1261
+Lompoc,165000,3,2,1120
+Santa Maria-Orcutt,229900,4,3,1857
+Santa Maria-Orcutt,229900,3,2,1400
+Paso Robles,269900,3,2,1139
+Santa Maria-Orcutt,245000,5,3,6098
+Santa Maria-Orcutt,165000,3,2,1300
+Lompoc,429000,3,3,2041
+Santa Maria-Orcutt,309900,4,3,2248
+Arroyo Grande,265000,2,1,972
+Santa Maria-Orcutt,169900,4,2,1500
+Santa Maria-Orcutt,380900,3,2,2000
+Santa Maria-Orcutt,315000,4,3,1939
+Lompoc,260000,3,2,1413
+Santa Maria-Orcutt,119900,3,2,1312
+Santa Maria-Orcutt,211500,3,2,1275
+Santa Maria-Orcutt,149000,2,1,854
+San Luis Obispo,890000,3,3,3474
+Cambria,289900,3,2,1380
+Santa Maria-Orcutt,289000,4,3,2100
+Oceano,399900,3,2,1487
+Santa Maria-Orcutt,125000,3,2,900
+Nipomo,359900,5,3,3036
+Santa Maria-Orcutt,239000,3,3,1800
+Santa Maria-Orcutt,199900,3,3,1600
+Santa Maria-Orcutt,179900,4,3,2150
+Santa Maria-Orcutt,195000,3,2,1300
+San Luis Obispo,299000,2,2,896
+Santa Maria-Orcutt,265000,2,3,1700
+Nipomo,699000,3,2,1700
+Grover Beach,275000,2,2,1194
+Paso Robles,169990,3,2,1465
+Santa Maria-Orcutt,189000,3,3,1530
+Santa Ynez,695000,4,2,2032
+Santa Maria-Orcutt,105000,2,2,1088
+Santa Maria-Orcutt,365000,4,4,4000
+Paso Robles,335900,3,3,1296
+Lompoc,170000,3,2,944
+Santa Maria-Orcutt,339900,4,2,2100
+Santa Maria-Orcutt,359900,3,3,2340
+Santa Maria-Orcutt,143000,3,2,1080
+Santa Maria-Orcutt,199000,3,2,1196
+San Luis Obispo,374800,3,3,1365
+Los Osos,499000,3,2,2120
+Atascadero,138900,2,1,1055
+Avila Beach,1999000,4,5,5307
+Paso Robles,359000,3,2,1774
+Santa Maria-Orcutt,294900,4,2,1856
+Atascadero,299500,4,2,1836
+Santa Maria-Orcutt,427900,4,3,2367
+Nipomo,269000,3,2,1181
+Bradley,449000,3,3,2563
+Santa Maria-Orcutt,144900,2,2,1130
+Santa Maria-Orcutt,345000,3,3,2020
+Paso Robles,239000,4,2,1240
+Los Osos,310000,2,1,780
+Santa Maria-Orcutt,225000,3,3,1800
+Paso Robles,695000,5,6,3750
+Nipomo,242500,3,3,1650
+Arroyo Grande,249250,2,1,728
+Grover Beach,479000,3,2,1462
+Lompoc,169900,3,2,1150
+Santa Maria-Orcutt,219900,3,3,1660
+Paso Robles,150000,2,2,1440
+Nipomo,649000,4,2,1814
+Santa Maria-Orcutt,285000,4,3,2100
+Paso Robles,163999,3,2,1488
+Nipomo,349000,4,2,1718
+Buellton,409900,3,2,1716
+Los Osos,275000,3,2,1320
+Santa Maria-Orcutt,179900,3,2,1200
+Oceano,789000,3,3,2218
+Santa Maria-Orcutt,299000,4,3,1768
+Arroyo Grande,850000,5,4,3588
+Santa Maria-Orcutt,295900,3,2,1776
+Santa Maria-Orcutt,199000,4,3,1467
+Santa Maria-Orcutt,199900,3,3,1950
+Santa Maria-Orcutt,179900,3,2,1288
+Atascadero,290000,3,3,1733
+Santa Maria-Orcutt,168000,3,2,1128
+Santa Maria-Orcutt,270000,3,3,1900
+Los Osos,1249000,6,7,5103
+Santa Maria-Orcutt,240000,3,2,1255
+Coalinga,219500,5,2,1802
+Santa Maria-Orcutt,235000,4,3,2336
+San Luis Obispo,239800,2,2,1190
+Santa Maria-Orcutt,269000,3,3,1800
+Paso Robles,319200,4,3,2006
+Paso Robles,402500,3,2,2446
+Paso Robles,425000,3,2,2114
+Atascadero,669000,3,3,2600
+Atascadero,369000,3,2,1514
+Paso Robles,239900,3,2,1080
+Grover Beach,249500,2,2,1088
+Solvang,557000,4,2,1809
+Santa Maria-Orcutt,339900,6,3,2053
+Nipomo,149900,2,2,969
+Arroyo Grande,849900,3,4,3375
+Lompoc,307000,3,2,1594
+Santa Maria-Orcutt,259000,4,3,1900
+Santa Maria-Orcutt,165000,3,2,1050
+Santa Maria-Orcutt,289900,3,2,1414
+Nipomo,879000,3,4,3698
+Santa Maria-Orcutt,220000,3,2,1200
+Atascadero,309000,3,3,1685
+Paso Robles,580000,3,3,2271
+Santa Maria-Orcutt,459900,2,2,1150
+Santa Maria-Orcutt,299000,5,3,2481
+Santa Maria-Orcutt,309900,4,3,1600
+Paso Robles,287000,3,2,1269
+Grover Beach,310000,3,2,1200
+Atascadero,229900,3,2,1198
+Buellton,377000,3,2,1363
+Lompoc,295000,4,2,1973
+Santa Maria-Orcutt,225000,3,2,1516
+Santa Maria-Orcutt,130000,3,2,1080
+Santa Maria-Orcutt,169990,2,1,920
+Santa Maria-Orcutt,145000,3,2,1027
+Greenfield,184800,4,2,2018
+Santa Maria-Orcutt,189900,3,2,1253
+Santa Maria-Orcutt,249000,3,2,1062
+Santa Maria-Orcutt,185000,4,2,1934
+Atascadero,145000,2,2,1041
+Paso Robles,429000,5,3,2700
+Arroyo Grande,419000,2,2,1587
+Santa Maria-Orcutt,245000,3,3,1859
+Santa Maria-Orcutt,289900,4,3,2400
+Santa Maria-Orcutt,175000,3,2,1110
+Santa Maria-Orcutt,139000,3,2,1075
+Arroyo Grande,514900,4,3,2035
+Pismo Beach,549000,3,2,1858
+Atascadero,235000,3,3,1261
+Atascadero,399000,6,3,2628
+Los Osos,259900,3,2,1120
+Lompoc,350900,3,2,1686
+Nipomo,1399900,4,4,5190
+Santa Maria-Orcutt,399000,3,2,1840
+Solvang,399000,3,2,1204
+Atascadero,199000,2,1,973
+Santa Maria-Orcutt,350000,3,2,1622
+Nipomo,296800,4,2,2125
+Santa Maria-Orcutt,165000,3,2,1204
+Santa Maria-Orcutt,210000,3,3,1750
+San Miguel,229000,3,2,1458
+San Miguel,199500,3,2,1184
+Santa Maria-Orcutt,110000,3,2,1000
+Paso Robles,264900,3,3,1197
+Atascadero,449900,3,3,2135
+Santa Maria-Orcutt,159900,3,2,1114
+Paso Robles,429000,4,2,1870
+Grover Beach,265000,1,1,566
+Nipomo,279900,2,2,1134
+Santa Maria-Orcutt,174900,3,2,1100
+Lompoc,158900,4,2,1144
+Santa Maria-Orcutt,150000,3,2,1349
+Buellton,269000,3,3,1281
+Atascadero,489900,3,3,1957
+Santa Maria-Orcutt,256000,4,2,1174
+Atascadero,335000,4,3,2400
+Morro Bay,435000,3,2,1236
+Santa Maria-Orcutt,280000,3,3,1910
+Paso Robles,409000,4,2,2064
+Paso Robles,409000,4,2,2064
+Paso Robles,399000,4,3,1888
+Paso Robles,389000,4,2,1862
+Nipomo,222600,3,2,1106
+Santa Maria-Orcutt,140000,3,2,1200
+Soledad,220000,5,3,2408
+Nipomo,650000,3,3,2703
+Lompoc,405000,3,2,1728
+Paso Robles,409000,3,2,1960
+Santa Maria-Orcutt,164900,3,2,1092
+Santa Margarita,59900,1,1,628
+Santa Maria-Orcutt,199900,3,2,1275
+Atascadero,95000,2,1,756
+Oceano,170000,2,2,885
+San Miguel,720000,4,4,3531
+Santa Maria-Orcutt,204000,3,2,1712
+Santa Maria-Orcutt,220000,3,2,1100
+Buellton,498900,4,3,1500
+Santa Maria-Orcutt,229900,3,2,1671
+San Luis Obispo,531905,3,2,1668
+Santa Maria-Orcutt,114900,2,1,775
+Guadalupe,145000,3,2,1200
+Lompoc,191330,4,2,1237
+Lompoc,199900,4,2,1338
+Santa Maria-Orcutt,266800,4,3,2100
+San Miguel,84900,2,2,1222
+Santa Maria-Orcutt,250000,3,2,1807
+Santa Maria-Orcutt,220000,4,2,1352
+Lompoc,227900,3,2,1503
+Buellton,384900,4,2,1571
+Paso Robles,529000,4,3,2502
+Santa Maria-Orcutt,159900,3,2,1526
+Atascadero,199000,3,2,1007
+Lompoc,125000,3,3,1306
+Bakersfield,91500,3,2,1313
+Santa Maria-Orcutt,155000,3,2,1593
+Paso Robles,409000,3,3,2203
+Atascadero,949000,5,4,5200
+Atascadero,90000,2,1,756
+Santa Maria-Orcutt,300000,3,3,2328
+Santa Maria-Orcutt,179900,3,2,1008
+Grover Beach,349000,3,2,1346
+Nipomo,220000,3,2,1112
+Santa Maria-Orcutt,155000,3,2,1340
+Paso Robles,390000,4,2,2236
+Santa Maria-Orcutt,425000,5,4,3039
+Santa Maria-Orcutt,249900,3,2,1733
+Santa Maria-Orcutt,239000,4,3,1947
+Buellton,395000,4,3,1868
+Buellton,375000,3,3,1475
+Buellton,395000,4,3,1868
+Buellton,395000,4,3,1868
+Santa Maria-Orcutt,230000,4,3,1927
+Santa Maria-Orcutt,189000,3,2,1292
+Paso Robles,304900,3,2,1657
+Santa Maria-Orcutt,169900,3,2,1300
+Santa Maria-Orcutt,286500,3,2,1700
+San Miguel,325000,4,2,2400
+Grover Beach,375000,3,2,1278
+Paso Robles,278000,3,2,1396
+Paso Robles,149000,3,2,1368
+Santa Maria-Orcutt,209000,3,2,1520
+Santa Maria-Orcutt,95000,2,2,900
+Santa Maria-Orcutt,199900,3,2,1407
+Santa Maria-Orcutt,185000,3,2,1170
+Lompoc,449900,4,3,3035
+Santa Maria-Orcutt,310000,5,4,2900
+Santa Maria-Orcutt,239900,4,2,1656
+Santa Maria-Orcutt,187900,2,2,980
+Arroyo Grande,450000,3,2,1916
+San Luis Obispo,440000,3,3,1756
+Santa Maria-Orcutt,260000,3,2,1278
+New Cuyama,40900,3,1,1201
+Paso Robles,249000,3,2,1275
+Atascadero,349000,3,3,2000
+Santa Maria-Orcutt,175000,3,2,1200
+Atascadero,449970,3,2,2000
+Grover Beach,419000,3,2,1902
+Arroyo Grande,400000,3,3,1568
+Santa Maria-Orcutt,185000,3,2,1257
+Santa Maria-Orcutt,139900,2,2,1100
+Santa Maria-Orcutt,174900,3,2,1461
+Soledad,165360,4,2,1353
+Santa Maria-Orcutt,169000,3,2,1200
+Santa Maria-Orcutt,240000,3,3,2039
+Santa Maria-Orcutt,364000,4,3,2150
+Arroyo Grande,250000,1,1,748
+Santa Maria-Orcutt,299900,4,3,1969
+Santa Maria-Orcutt,281900,4,3,2357
+Grover Beach,349900,3,1,1522
+Santa Maria-Orcutt,220000,3,2,1850
+Templeton,774800,3,4,3123
+Santa Maria-Orcutt,135000,3,2,1200
+ Lompoc,149900,3,1,1000
+Paso Robles,599000,3,2,2082
+Santa Maria-Orcutt,179000,3,2,1200
+Santa Maria-Orcutt,177000,3,2,1500
+Santa Maria-Orcutt,177000,3,2,1500
+ Nipomo,122500,4,2,1248
+Santa Maria-Orcutt,239500,3,2,1400
+Paso Robles,214900,3,2,1080
+Santa Maria-Orcutt,275000,3,2,1460
+ Arroyo Grande,425000,3,2,1437
+San Simeon,274900,2,2,1218
+ Nipomo,175000,2,2,1152
+ Morro Bay,535000,2,2,1410
+ Pismo Beach,540000,2,1,817
+ Cambria,389000,2,2,703
+Paso Robles,250000,3,2,1425
+ Paso Robles,425000,3,2,1807
+ Out Of Area,1195000,5,4,3800
+ Los Osos,1350000,3,3,2502
+Santa Maria-Orcutt,78500,1,1,800
+ Paso Robles,549000,3,2,2237
+ Santa Maria-Orcutt,399900,4,2,1860
+Atascadero,699000,10,11,4905
+ Santa Maria-Orcutt,129000,2,2,1200
+ Cambria,480000,2,2,1698
+Nipomo,189000,3,1,1022
+ Pismo Beach,639900,3,2,2080
+ Santa Maria-Orcutt,699900,5,4,3000
+ Grover Beach,999000,3,3,3621
+ Arroyo Grande,599000,3,2,1570
+ Santa Maria-Orcutt,365000,4,2,1860
+Cambria,359900,3,2,1840
+ Arroyo Grande,995000,4,4,3740
+Lompoc,193450,4,2,1217
+Santa Maria-Orcutt,179900,3,3,1520
+Grover Beach,329900,3,2,1240
+ Templeton,509000,3,2,1936
+ Atascadero,995000,3,3,2044
+ Pismo Beach,545000,3,2,1946
+ Pismo Beach,795000,3,3,2028
+ Atascadero,830000,4,3,2700
+ Arroyo Grande,54500,2,1,624
+ Arroyo Grande,149000,3,2,1800
+ Santa Maria-Orcutt,36000,2,2,1056
+ Paso Robles,349000,3,2,1467
+Santa Maria-Orcutt,299900,4,3,2150
+ Morro Bay,469000,4,2,2004
+ Oceano,1195000,2,2,1044
+Solvang,419900,3,2,1576
+ Los Osos,189000,2,2,1536
+Lompoc,163900,3,2,1082
+Lompoc,163900,3,2,1237
+ Los Osos,648000,3,3,2193
+Santa Maria-Orcutt,130000,3,2,1022
+Atascadero,264900,3,2,1232
+Santa Maria-Orcutt,189900,4,2,1435
+Santa Maria-Orcutt,200000,4,2,1430
+ Arroyo Grande,1249000,3,3,2480
+ Cayucos,525000,3,3,1832
+ Cambria,729000,3,3,1953
+Santa Maria-Orcutt,109900,3,2,1100
+ Santa Maria-Orcutt,850000,3,2,2481
+Santa Maria-Orcutt,249500,3,2,1704
+Oceano,179900,3,2,1161
+ Los Osos,149000,3,2,1440
+ Creston,549000,3,2,1701
+ Atascadero,435000,3,2,1536
+ Atascadero,299000,3,2,1310
+ Los Osos,625000,3,2,2187
+Santa Maria-Orcutt,399000,4,3,2100
+Out Of Area,186900,4,2,1511
+ Cambria,1290000,3,3,2130
+Solvang,264900,2,3,1400
+Lompoc,198900,3,2,1225
+ Paso Robles,318000,3,3,1868
+ Cambria,2000000,4,4,3576
+ Cambria,598000,2,3,2219
+Paso Robles,439900,3,3,2508
+ Pismo Beach,920000,3,3,2817
+Santa Maria-Orcutt,179900,3,2,1972
+Templeton,325000,2,1,952
+ Grover Beach,369000,3,2,1080
+ Santa Maria-Orcutt,312900,3,2,1454
+ Atascadero,575000,3,3,1961
+ Santa Maria-Orcutt,26500,2,2,1344
+ San Luis Obispo,2369000,5,6,4174
+ Atascadero,67500,2,2,120
+ San Luis Obispo,1490000,3,3,3201
+ Morro Bay,652000,3,2,1427
+ Atascadero,449000,3,3,2100
+ Morro Bay,982800,3,2,2306
+Santa Maria-Orcutt,235000,4,3,2100
+ Paso Robles,579900,4,3,3166
+Santa Maria-Orcutt,250000,3,2,1280
+Coalinga,100000,3,1,870
+Coalinga,125000,2,1,960
+ Cambria,650000,2,2,919
+Santa Maria-Orcutt,119900,2,2,1034
+San Miguel,209900,3,2,1356
+ Paso Robles,524900,3,2,2380
+Atascadero,349000,5,3,3000
+ Atascadero,349000,5,3,3000
+ Cambria,825000,2,3,1840
+Grover Beach,255000,3,2,1189
+Nipomo,259000,4,2,1336
+Paso Robles,199000,2,1,832
+Santa Maria-Orcutt,410000,5,3,2100
+ Paso Robles,199000,3,1,940
+ Paso Robles,270000,3,2,1344
+ Cayucos,695000,2,2,1437
+ Cambria,2995000,5,4,3684
+ Paso Robles,131900,1,2,300
+ Cambria,995000,4,3,2717
+ Santa Maria-Orcutt,250000,4,3,2097
+Arroyo Grande,239800,5,2,1575
+ Atascadero,425000,6,3,2628
+ Arroyo Grande,525000,3,2,1750
+ Pismo Beach,459900,3,2,1346
+Atascadero,229900,3,2,1041
+Out Of Area,199900,3,2,1526
+ Arroyo Grande,599000,4,2,1728
+Santa Maria-Orcutt,197600,4,2,1378
+ Santa Maria-Orcutt,355000,2,1,1145
+ Paso Robles,339900,3,2,1325
+ Santa Maria-Orcutt,299000,3,3,1850
+Soledad,166800,4,2,1765
+Grover Beach,379000,4,2,1631
+Santa Ynez,1395000,4,4,2693
+Santa Maria-Orcutt,150000,3,2,1316
+ San Luis Obispo,475000,3,2,1382
+Santa Maria-Orcutt,265000,4,3,2300
+Atascadero,265000,3,2,1617
+ Los Osos,225000,2,2,1150
+Paso Robles,249900,2,2,1674
+ Arroyo Grande,509000,3,2,1543
+ Paso Robles,214900,2,2,1351
+ Arroyo Grande,5499000,4,5,5060
+ Santa Maria-Orcutt,349900,3,2,2000
+ Solvang,125000,2,2,1536
+Cambria,549000,2,2,924
+ Cambria,865000,3,3,1860
+ Bradley,1600000,3,3,2640
+ Nipomo,1065000,4,4,3395
+Templeton,625000,3,2,1850
+ Santa Maria-Orcutt,249999,3,2,1000
+ Arroyo Grande,975000,4,3,2720
+Oceano,204900,2,1,992
+ Atascadero,355000,3,2,1737
+Out Of Area,134900,3,3,1435
+Santa Maria-Orcutt,199900,5,3,1671
+Santa Maria-Orcutt,349900,4,3,2800
+Santa Maria-Orcutt,99000,2,2,900
+Coalinga,409000,4,3,2507
+ Pismo Beach,339000,2,2,1440
+ San Miguel,595000,3,3,2238
+ Pismo Beach,849500,3,3,2725
+ Paso Robles,399000,2,3,1772
+ Paso Robles,399000,4,2,1947
+ Solvang,525000,3,2,1720
+ Paso Robles,319900,3,3,1605
+ Paso Robles,495000,3,2,1877
+San Luis Obispo,372000,3,2,1104
+ Arroyo Grande,589000,3,2,1975
+ Cambria,1100000,3,3,2392
